@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"noEmitOnError": true,
+		"noImplicitAny": true,
+		"sourceMap": true,
+		"target": "ES6"
+	},
+	"files": [ "./app.ts" ],
+	"compileOnSave": true
+}
